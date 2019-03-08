@@ -63,7 +63,7 @@ class App extends React.Component {
   
   setText() {
     this.setState({
-      editorHtml: "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>dfdfs<strong>dfdsfd</strong></p><p><br></p><p><br></p><p><br></p>"
+      editorHtml: '<ol><li class="ql-indent-2">jhfgkjlsdhflksjdlf</li><li class="ql-indent-2">number 2</li></ol>'
     })
   }
   
